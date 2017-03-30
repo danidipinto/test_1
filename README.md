@@ -15,4 +15,4 @@ if your_age < 30:
 else:
     print "Life not only begins at 30, it begins to show!"
   test```
-  ~~strike~~
+  ~~~strike~~~
